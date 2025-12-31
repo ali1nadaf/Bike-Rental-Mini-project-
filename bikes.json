@@ -1,0 +1,47 @@
+[
+  {
+    "bike_id": "BIKE0001",
+    "name": "Yamaha R15",
+    "color": "Blue",
+    "plate_number": "MH01AB1234",
+    "price_per_day": 25.0,
+    "location": "Downtown",
+    "available": true
+  },
+  {
+    "bike_id": "BIKE0002",
+    "name": "Royal Enfield Classic 350",
+    "color": "Black",
+    "plate_number": "MH02CD5678",
+    "price_per_day": 35.0,
+    "location": "Uptown",
+    "available": true
+  },
+  {
+    "bike_id": "BIKE0003",
+    "name": "Honda CB Shine",
+    "color": "Red",
+    "plate_number": "MH03EF9012",
+    "price_per_day": 20.0,
+    "location": "Suburbs",
+    "available": true
+  },
+  {
+    "bike_id": "BIKE0004",
+    "name": "Bajaj Pulsar 150",
+    "color": "White",
+    "plate_number": "MH04GH3456",
+    "price_per_day": 22.0,
+    "location": "Downtown",
+    "available": true
+  },
+  {
+    "bike_id": "BIKE0005",
+    "name": "KTM Duke 200",
+    "color": "Orange",
+    "plate_number": "MH05IJ7890",
+    "price_per_day": 30.0,
+    "location": "Uptown",
+    "available": true
+  }
+]
